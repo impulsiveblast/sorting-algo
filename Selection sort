@@ -1,4 +1,5 @@
 //O(N) in all cases
+//select the minimum element in each iteration and swap with element at begining
 
 #include<bits/stdc++.h>
 using namespace std;
